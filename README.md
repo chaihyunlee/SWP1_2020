@@ -1,3 +1,3 @@
-20161671 Lee Chaihyun
+20161671	Lee Chaihyun
 Kookmin Univ. SW
 Hello Chaihyun Welcome to SW Univ!
